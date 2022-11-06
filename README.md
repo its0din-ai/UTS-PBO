@@ -1,5 +1,7 @@
 ## PENJELASAN LANJUTAN
 
+[🔗 Link Soal](https://nbviewer.org/github/its0din-ai/UTS-PBO/blob/master/Soal/PBO_UTS_2021.pdf)
+
 ### Nomor 1
 Package :: Library<br>
 
